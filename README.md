@@ -2,6 +2,10 @@
 
 > **for the broken hearted.**
 
+## 🌐 Live Demo
+
+Listen to Breakup FM online: **[Open Breakup FM](https://sarahcore.github.io/breakup-fm/)**
+
 Breakup FM is a Y2K-inspired web radio created for those moments when you don't know what to listen to — but you know exactly how you feel.
 
 Instead of searching for individual songs, users choose a station based on their current mood and let the radio take over.
