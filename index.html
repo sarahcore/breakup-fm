@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BreakUp FM</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+   <main>
+        <section id="landing" class="screen active">
+            <h1>BREAKUP FM</h1>
+
+            <img src="assets/broken-heart.svg"
+                 alt="Broken heart"
+                 class="heart">
+
+            <p>for the broken hearted</p>
+
+            <button id="tune-in">TUNE IN</button>
+        </section>
+
+        <section id="stations" class="screen">
+            <h1>BREAKUP FM</h1>
+
+            <h2>How's your heart today?</h2>
+
+            <button id="station-01">
+                01 &nbsp; BROKEN
+            </button>
+
+            <button class="station-disabled" disabled>
+                02 &nbsp; F*CK THEM &nbsp; — COMING SOON
+            </button>
+
+            <button class="station-disabled" disabled>
+                03 &nbsp; STILL MISSING YOU &nbsp; — COMING SOON
+            </button>
+
+            <button class="station-disabled" disabled>
+                04 &nbsp; GETTING OVER YOU &nbsp; — COMING SOON
+            </button>
+
+            <button class="station-disabled" disabled>
+                05 &nbsp; JUST DISTRACT ME &nbsp; — COMING SOON
+            </button>
+
+        </section>
+        <section id="player" class="screen">
+
+    <h1>BREAKUP FM</h1>
+
+    <h2>BROKEN HEARTED</h2>
+    <p>STATION 01</p>
+
+    <p>NOW PLAYING</p>
+
+    <div class="album-art">
+        <img src="assets/broken-heart.svg" alt="Breakup FM logo">
+    </div>
+
+    <h3 id="song-title">Song Title</h3>
+    <p id="song-artist">Artist</p>
+    <div class="progress-container">
+    <span id="current-time">0:00</span>
+
+    <input 
+        type="range" 
+        id="progress-bar" 
+        min="0" 
+        value="0"
+    >
+
+    <span id="duration">0:00</span>
+</div>
+
+    <div class="player-controls"> 
+        <button id="prev-song">◀◀</button> 
+        <button id="play-pause">▶</button> 
+        <button id="next-song">▶▶</button> 
+    </div>
+
+    <button id="view-queue">VIEW QUEUE</button>
+    <button id="change-station">CHANGE STATION</button>
+
+</section>
+<section id="queue" class="screen">
+
+    <h1>BREAKUP FM</h1>
+
+    <h2>BROKEN HEARTED</h2>
+    <p>STATION 01</p>
+
+    <h3>UP NEXT</h3>
+
+    <div id="queue-list"></div>
+
+    <button id="back-to-player">← NOW PLAYING</button>
+
+</section>
+    </main>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
