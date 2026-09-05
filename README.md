@@ -67,6 +67,8 @@ The initial flow included four main screens:
 
 This helped establish the structure of the experience before focusing on visual details.
 
+![Breakup FM Paper Wireframes](assets/breakup-fm-paper-wireframes.jpeg)
+
 ### 3. Interface Design
 
 After defining the structure on paper, the screens were recreated and refined in Figma.
@@ -208,13 +210,21 @@ Future versions could include:
 
 ## 🎵 Music Credits
 
-The public version of Breakup FM uses music selected with licenses that allow reuse and redistribution.
+The public version of Breakup FM uses music released under licenses that allow reuse and redistribution.
 
-- **Someone Real** — Jenna Jay — CC0 1.0 Universal
-- **YOU MOVED ON, I CAN'T** — DJ Endre — CC0 1.0 Universal
-- **Broken Heart** — Allerlei von Nicolai — CC BY 3.0
+- **Someone Real — Jenna Jay**  
+  License: CC0 1.0 Universal  
+  Source: [Free Music Archive](https://freemusicarchive.org/music/jenna-jay/single/someone-real-jenna-jay/)
 
-License and source information for third-party audio is documented to keep the project assets transparent and properly attributed.
+- **YOU MOVED ON, I CAN'T — DJ Endre**  
+  License: CC0 1.0 Universal  
+  Source: [Free Music Archive](https://freemusicarchive.org/music/dj-endre/single/you-moved-on-i-cant/)
+
+- **Broken Heart — Allerlei von Nicolai**  
+  License: Creative Commons Attribution 3.0 Unported (CC BY 3.0)  
+  Source: [Free Stock Music](https://www.free-stock-music.com/artist.maliciou.html)
+
+Music remains credited to its respective creators. Third-party audio is included according to the license indicated by its source.
 
 ## 👩‍💻 Author
 
