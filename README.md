@@ -81,6 +81,8 @@ During this stage, I worked on:
 - Radio-inspired visual identity
 - Consistency across the interface
 
+![Breakup FM Interface Design](assets/breakup-fm-wireframes.png)
+
 ### 4. Web Development
 
 The final design was then implemented as a functional web prototype using HTML, CSS and JavaScript.
